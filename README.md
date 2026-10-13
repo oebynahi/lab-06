@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Fikayo Ebyn-Ahisu`
-- **CCID:** `1870065>`
+- **CCID:** `1870065`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
